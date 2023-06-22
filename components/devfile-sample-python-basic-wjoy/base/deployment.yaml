@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: devfile-sample-python-basic-wjoy
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/devfile-sample-python-basic/devfile-sample-python-basic-wjoy@sha256:eecec50f7c4b67e7633813849d63f892d82a77ffac13a5fab3bbbd6f43f18ec1
+      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/devfile-sample-python-basic/devfile-sample-python-basic-wjoy@sha256:c783217f6168801c05f776505affc9a682547d117c1e509b9eea9f1a859ec2ed
         name: my-python
         ports:
         - containerPort: 8081
