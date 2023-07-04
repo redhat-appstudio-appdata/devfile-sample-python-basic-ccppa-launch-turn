@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/devfile-sample-python-basic/devfile-sample-python-basic-wjoy@sha256:45bc6f1f38b2115259827b8bc369d77cdc7cc231d074d9d8cc247e0170f8a509
+      - image: quay.io/redhat-user-workloads/rhn-gps-cjenkins-tenant/devfile-sample-python-basic/devfile-sample-python-basic-wjoy@sha256:289f527ccc133bbcc9827f6da0c36723ffeb0f53dee93e22d7c8138506ea2aff
         name: my-python
         resources: {}
 status: {}
